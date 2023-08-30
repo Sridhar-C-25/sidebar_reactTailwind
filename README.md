@@ -1,4 +1,4 @@
-# sidebar_reactTailwind
+# react-sidebar
 sidebar using react js tailwind css
 
 Vite + React + tailwind
